@@ -1,0 +1,9 @@
+username: @Mrinal
+first_name: Mrinal
+last_name: Shukla
+company: Netflix
+job_title: Software Engineer
+email: mrinal.shukla@netflix.com
+phone: 4083550626
+linkedin_link: https://www.linkedin.com/in/mrinalshukla?authType=NAME_SEARCH&authToken=ure6&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A44403374%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1487885629571%2Ctas%3Amrinal
+github_link: null
